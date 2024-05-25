@@ -25,7 +25,7 @@ https://nodejs.org/en/download/
 In your terminal Directory in your Project (command-line | bash | GitBash)
 
 
-npm install
+### `npm install`
 
 
 In the project directory, you can run: it's Important 
